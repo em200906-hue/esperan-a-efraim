@@ -1,0 +1,6 @@
+{
+  "name": "ESPERANÇA - Comunhão Cristã Efraim",
+  "description": "Aplicativo oficial da Comunhão Cristã Efraim com Mural de Oração em tempo real, WhatsApp Efraim com QR Code e Pix, Assistente IA Pastoral e Cadastro de Visitantes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
